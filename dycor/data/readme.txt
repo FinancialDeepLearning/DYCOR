@@ -1,1 +1,0 @@
-Datasets used in this project (NASDAQ, NYSE) can be obtained from https://github.com/fulifeng/Temporal_Relational_Stock_Ranking/tree/master/data
