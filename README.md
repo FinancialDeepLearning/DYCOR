@@ -13,7 +13,6 @@ Official code implementation and supplementary material of CIKM 2025 paper "**DY
 
 ```bash
 git clone https://github.com/anonymous/DYCOR.git
-cd DYCOR
 pip install -r requirements.txt
 ```
 
