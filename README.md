@@ -29,5 +29,6 @@ The NASDAQ and NYSE datasets are obtained from [Temporal Relational Stock Rankin
 ## **Usage**
 
 ```bash
+cd src
 python main.py --market NASDAQ --gpu 0
 ```
