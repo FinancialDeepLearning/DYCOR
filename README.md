@@ -28,8 +28,9 @@ The NASDAQ and NYSE datasets are obtained from [Temporal Relational Stock Rankin
 
 ## **Usage**
 
+Replace NASDAQ with NYSE or SP500 for different datasets
+
 ```bash
 cd src
 python main.py --market NASDAQ --gpu 0
 ```
-Replace NASDAQ with NYSE or SP500 for different datasets
