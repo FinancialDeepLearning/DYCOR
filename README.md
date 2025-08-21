@@ -2,7 +2,7 @@
 
 Official code implementation and supplementary material of CIKM 2025 paper "**DYCOR: Capturing Hidden Stock Relationships for Stock Trend Prediction**". This work proposes a novel stock trend prediction method that integrates dynamic stock clustering and correlation-aware training to capture evolving and latent relationships between stocks, addressing the limitations of existing methods that rely on predefined static relationships and fail to adapt to changing market dynamics.
 
-![DYCOR Architecture](dycor/img/overview.pdf)
+![DYCOR Architecture](dycor/img/overview.png)
 
 ## **Requirements**
 
