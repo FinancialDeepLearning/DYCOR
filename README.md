@@ -43,13 +43,11 @@ If you find this work useful for your research, please cite:
 @inproceedings{choi2025dycor,
   title={DYCOR: Capturing Hidden Stock Relationships for Stock Trend Prediction},
   author={Choi, Kangmin and Shin, Geon and Yang, Jungwoo and Kim, Hyunjoon},
-  booktitle={Proceedings of the 34th ACM International Conference on Information and Knowledge Management},
-  series={CIKM '25},
+  booktitle={Proceedings of the 34th ACM International Conference on Information and Knowledge Management (CIKM '25)},
   year={2025},
-  month={November},
-  location={Seoul, Republic of Korea},
+  month=nov,
+  address={Seoul, Republic of Korea},
   publisher={Association for Computing Machinery},
-  address={New York, NY, USA},
   doi={10.1145/3746252.3761413},
   isbn={979-8-4007-2040-6}
 }
