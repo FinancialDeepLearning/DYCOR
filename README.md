@@ -12,7 +12,7 @@ Official code implementation and supplementary material of CIKM 2025 paper "**DY
 ## **Installation**
 
 ```bash
-git clone https://github.com/anonymous/DYCOR.git
+git clone https://github.com/FinancialDeepLearning/DYCOR.git
 pip install -r requirements.txt
 ```
 
